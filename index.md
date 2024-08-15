@@ -109,7 +109,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 <div class="reading">
 
 <div class="required_reading" markdown="1">
-* [Towards a Unified Architecture for in-RDBMS Analytics](https://www.cs.stanford.edu/people/chrismre/papers/bismarck.pdf)
+* [Towards a Unified Architecture for in-RDBMS Analytics](https://people.eecs.berkeley.edu/~brecht/papers/12.FengEtAl.SIGMOD.pdf)
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
 * [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
 </div>
